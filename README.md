@@ -1,4 +1,4 @@
-# 🛡️ KcELECTRA 기반 한국어 스미싱 문자 분류 모델(KcELECTRA vs RoBERTa)
+# 🛡️ KcELECTRA 기반 한국어 스미싱 문자 분류 모델(KcELECTRA)
 
 > 이 프로젝트는 문자 메시지의 문맥을 이해하여 정상 문자(광고/일상)와 스미싱 문자를 정교하게 분류하는 Transformer 기반 Sequence Classification 프로젝트입니다.
 
