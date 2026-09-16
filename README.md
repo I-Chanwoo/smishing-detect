@@ -31,7 +31,7 @@
 * **`meal-bbang/Korean_message`** (5,778개)
 * 한국어 스팸 메시지 분류 데이터셋 중 정상 및 스미싱 레이블 활용
   
-* 추가 수집한 실제 스미싱 데이터(약 2만 2천여개)
+* 실제 스미싱 데이터(67,308개)
 
 ### 2.2 더미(Dummy) 데이터 생성 (Data Augmentation)
 
@@ -70,7 +70,7 @@
 * `dummy` (증강 데이터): 25,000개
 * `jmjmjm3/kor-smishing-message`: 12,258개
 * `meal-bbang/Korean_message`: 5,778개
-* `kisa`: 5,329개
+* `기타`: 5,329개
 
 ---
 
